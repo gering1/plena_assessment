@@ -1,5 +1,4 @@
 import collections
-import heapq
 
 def first_repeating(string):
     if not string:
